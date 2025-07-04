@@ -7,6 +7,6 @@
 ### ⚙️ GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamma-ok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="420" height="200" /> |
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=tokyonight" width="350" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gamma-ok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="420" height="200" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=tokyonight" width="350" height="200" />
 </div>
