@@ -1,4 +1,11 @@
-<h1 align="center">Hola, soy <a href="https://github.com/gamma-ok" target="_blank">gamma</a> 👋</h1>
+<div align="center">
+  <h1 align="center">Hola, soy <a href="https://github.com/gamma-ok" target="_blank">gamma</a> 👋</h1>
+</div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+</p>
 
 <!--
 **gamma-ok/gamma-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
