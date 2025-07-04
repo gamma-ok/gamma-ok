@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/gamma-ok">
-    <img src="https://github-readme-stats.vercel.app/api?username=gamma-ok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="420" height="200" hspace="10"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gamma-ok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="420" height="200"/>
   </a>
   
   <a href="https://github.com/gamma-ok">
