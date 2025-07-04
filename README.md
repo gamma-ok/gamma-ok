@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy <a href="https://github.com/gamma-ok" target="_blank">gamma</a> 👋</h1>
 </div>
 
-<img src="https://imgur.com/a/FunQ59U">
+<img src="https://i.imgur.com/uZis8UC.jpeg">
 
 
 ## ⚙️ GitHub Analytics
