@@ -4,16 +4,10 @@
 
 <img src="https://i.imgur.com/uZis8UC.jpeg">
 
-
-## ⚙️ GitHub Analytics
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gamma-ok&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=radical" />
 </p>
-
-
-### ⚙️  GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/ArisGuimera">
@@ -22,11 +16,13 @@
   </a>
 </p>
 
+### ⚙️  GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/gamma-ok/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamma-ok&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats"/>
-  </a> | ASD
-  <a href="https://github.com/gamma-ok/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=buefy&hide_border=true"/>
+  <a href="https://github.com/gamma-ok">
+    <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gamma-ok&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="gamma-ok GitHub stats"/>
+  </a>
+  <a href="https://github.com/gamma-ok">
+    <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
   </a>
 </p>
