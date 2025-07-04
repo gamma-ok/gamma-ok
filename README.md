@@ -10,7 +10,11 @@
   <a href="https://github.com/gamma-ok">
     <img src="https://github-readme-stats.vercel.app/api?username=gamma-ok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="420" height="200"/>
   </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  
+    <img src="...stats..." />
+  <img src="https://via.placeholder.com/20x1/00000000/00000000" width="20" height="1" />
+  <img src="...top-langs..." />
+  
   <a href="https://github.com/gamma-ok">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=tokyonight" width="350" height="200"/>
   </a>
