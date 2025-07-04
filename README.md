@@ -12,6 +12,6 @@
   </a>
   
   <a href="https://github.com/gamma-ok">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=tokyonight" width="350" height="200" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=tokyonight" width="350" height="200"/>
   </a>
 </div>
