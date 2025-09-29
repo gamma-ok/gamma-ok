@@ -14,3 +14,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=tokyonight" width="350" height="200"/>
   </a>
 </div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamma-ok&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamma-ok&theme=tokyonight" />
