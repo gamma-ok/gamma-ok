@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/gamma-ok">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamma-ok&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamma-ok&theme=tokyonight" width="420" height="200"/>
   </a>
   <a href="https://github.com/gamma-ok">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamma-ok&layout=compact&theme=tokyonight" width="350" height="200"/>
